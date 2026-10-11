@@ -11,7 +11,7 @@ toggleBtn.addEventListener("click", () => {
   }
 });
 
-const telefone = "5541988070862";
+const telefone = "5541984028350";
 
 document.getElementById("formContato").addEventListener("submit", function (e) {
   e.preventDefault();
