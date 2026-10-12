@@ -157,6 +157,10 @@ body.light {
   color: #222;
 }
 
+body.light .link-box {
+  background: rgba(255, 255, 255, 0.6);
+}
+
 body.light .navbar {
   background: rgba(255, 255, 255, 0.6);
 }
@@ -198,7 +202,7 @@ body.light .box {
 .link-box {
   display: flex;
   align-items: center;
-  background: var(--cor-fundo-box);
+  background: rgba(0, 0, 0, 0.6);
   border-radius: 12px;
   padding: 20px;
   margin: 15px auto;
